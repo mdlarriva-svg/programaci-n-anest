@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
 
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwW16_g-saDbv0vduttSRt8k_N3zNB0y-bZmVAOhAepjipaTaJ_jGAqtct-XC1lq_lCRg/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwAXepfIaiMCU0IcVpXMBXYBdBOS16BpeJx4CCcSGfHSrA0orR-LmLRzjRgxJ5j1fKqUw/exec";
 
 // API
 async function fetchDia(dia) {
